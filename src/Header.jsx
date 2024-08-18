@@ -3,12 +3,7 @@ function Header(){
 
     return(
     <>
-    <head>
-    <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0"></meta>
-    <title>LEXICON - Marketplace</title>
-    <link rel="stylesheet" href="styles.css"></link>
-    </head>
-        <header>
+    <header>
         <div class="navbar">
             <div class="logo">LEXICON</div>
             <nav>
