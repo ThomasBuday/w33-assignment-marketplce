@@ -4,8 +4,8 @@ function Header(){
     return(
     <>
     <header>
-        <div class="navbar">
-            <div class="logo">LEXICON</div>
+        <div className="navbar">
+            <div className="logo">LEXICON</div>
             <nav>
                 <ul>
                     <li><a href="#">Login</a></li>
@@ -14,7 +14,7 @@ function Header(){
                 </ul>
             </nav>
         </div>
-        <div class="banner">
+        <div className="banner">
             <h1>Marketplace UI!</h1>
         </div>
     </header>
